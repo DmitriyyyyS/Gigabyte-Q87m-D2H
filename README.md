@@ -3,8 +3,11 @@
 Clover v5.0 r5118
 
 Gigabyte Q87m-D2H Hackintosh
+
 CPU    Intel(R) Core(TM) i5-4590
+
 IGPU   Intel(R) HD Graphics 4600  
+
 LAN    Intel(R) Ethernet Connection I217-LM 
 
 
